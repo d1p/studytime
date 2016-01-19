@@ -8,8 +8,8 @@ A simple python script which automatically shutdowns my computer if i start it b
 	clone this repo.
 	replace your password in shutdown.py
 	chmod +x shutdown.py
-	then start a new crontab typing `crontab -e' 
-	and add this lines '@reboot /home/user/path/shutdown.py'
+	then start a new crontab typing `crontab -e`
+	and add this lines `@reboot /home/user/path/shutdown.py`
 
 
 Happy examming xD
